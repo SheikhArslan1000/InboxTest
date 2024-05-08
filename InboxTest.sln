@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InboxTest", "InboxTest\InboxTest\InboxTest.csproj", "{59D2D60F-DE00-4E6C-BEE9-E8DA6C8B09C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InboxTest.Client", "InboxTest\InboxTest.Client\InboxTest.Client.csproj", "{342ED990-C28F-40CF-AD92-A65CF471A8AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59D2D60F-DE00-4E6C-BEE9-E8DA6C8B09C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59D2D60F-DE00-4E6C-BEE9-E8DA6C8B09C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59D2D60F-DE00-4E6C-BEE9-E8DA6C8B09C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59D2D60F-DE00-4E6C-BEE9-E8DA6C8B09C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{342ED990-C28F-40CF-AD92-A65CF471A8AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342ED990-C28F-40CF-AD92-A65CF471A8AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342ED990-C28F-40CF-AD92-A65CF471A8AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342ED990-C28F-40CF-AD92-A65CF471A8AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95BE0707-C204-4F4D-A8B8-7D8513A5FBB5}
+	EndGlobalSection
+EndGlobal
